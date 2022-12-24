@@ -5,6 +5,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   
   background: url(../public/w1.jpg);
+  /*background: linear-gradient(to bottom, #89ffde 0%,#8f4bff 100%) no-repeat fixed;*/
+  background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%) no-repeat fixed;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
