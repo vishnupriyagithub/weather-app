@@ -6,7 +6,10 @@ body {
   
   background: url(../public/w1.jpg);
   background-size: cover;
- 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+      
 }
 /*#image{
   height: 500px;
